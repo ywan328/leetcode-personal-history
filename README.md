@@ -1,3 +1,3 @@
-# leetcode-personal-history
+# 懂算法的程序员叫工程师;不懂算法的程序员叫码农
 个人刷题记录
 争取用Java和python刷完所有easy,medium题目以及少部分hard部分题目
